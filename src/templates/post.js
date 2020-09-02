@@ -34,6 +34,7 @@ const Post = ({ data, location }) => {
                             </figure> : null }
                         <section className="post-full-content">
                             <h1 className="content-title">{post.title}</h1>
+                            <h4></h4>
 
                             {/* The main post content */ }
                             <section

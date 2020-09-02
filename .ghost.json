@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://ghost-sc.herokuapp.com",
-    "contentApiKey": "e89c790e3071f80ca685c5809e"
+    "apiUrl": "https://ghost.vcuc.gq",
+    "contentApiKey": "d6d49a5799bb7510b5ebef7609"
   },
   "production": {
-    "apiUrl": "https://ghost-sc.herokuapp.com",
-    "contentApiKey": "e89c790e3071f80ca685c5809e"
+    "apiUrl": "https://ghost.vcuc.gq",
+    "contentApiKey": "d6d49a5799bb7510b5ebef7609"
   }
 }
